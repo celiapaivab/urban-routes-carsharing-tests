@@ -1,4 +1,4 @@
-# Testes de Interface e Funcionalidade – Urban Routes 🛣️
+# Testes de Interface e Funcionalidade – Urban Routes
 
 ![QA](https://img.shields.io/badge/Testes-Manuais-blue)
 ![Ferramenta](https://img.shields.io/badge/Google%20Sheets-Test%20Management-green)
