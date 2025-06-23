@@ -52,7 +52,7 @@ Este projeto foi realizado como parte do curso de QA, com foco no **teste de int
 
 ## 📁 Arquivos do Projeto
 
-- [`📄 Checklists e Casos de Teste – Google Sheets`](https://docs.google.com/spreadsheets/d/1lf9XZ_RsjK3RkQQ4JWh4fEjN3qHy6Ofg/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true)  
+- [`📄 Checklists e Casos de Teste – Google Sheets`](https://docs.google.com/spreadsheets/d/1lp4nFC3xP73r0NDBJAYL_gqjJ5dlNzLB/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true)  
 - [`📝 Documento do Projeto – Google Docs`](https://docs.google.com/document/d/1WrHRbnV7a3M6LZGD-tikFguK_fW8n3TH/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true)  
 - [`🐞 Relatórios de Bug no Jira`](https://celiadepaivabruno.atlassian.net/jira/software/c/projects/S3/issues)
 
