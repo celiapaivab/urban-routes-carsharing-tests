@@ -80,7 +80,7 @@ Este projeto foi realizado como parte do curso de QA, com foco no **teste de int
 ---
 
 
-## 🇺🇸 Project Summary (English)
+## 🇺🇸 Project Summary
 
 **Urban Routes UI and Functional Testing** — Manual QA project focused on testing the web app’s car-sharing form interface and related features across different browsers and screen resolutions.  
 Includes checklist creation, test execution, bug reporting, and final documentation.
