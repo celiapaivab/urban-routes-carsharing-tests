@@ -4,12 +4,15 @@
 ![Ferramenta](https://img.shields.io/badge/Google%20Sheets-Test%20Management-green)
 ![Tipo de Teste](https://img.shields.io/badge/Testes-Funcionais%20e%20de%20Interface-lightgrey)
 
+---
+
+## 📌 Sobre o Projeto
 
 Este projeto foi realizado como parte do curso de QA, com foco no **teste de interface e funcionalidade web** da aplicação Urban Routes – uma plataforma de compartilhamento de carros. Foram utilizados dois navegadores com diferentes resoluções para validar o comportamento do formulário de reserva e funcionalidades associadas.
 
 ---
 
-## 📌 Objetivos do Projeto
+## 🎯 Objetivo do Projeto
 
 - Testar elementos de interface em diferentes resoluções
 - Verificar a responsividade e o layout do formulário de reserva
@@ -18,7 +21,7 @@ Este projeto foi realizado como parte do curso de QA, com foco no **teste de int
 
 ---
 
-## 🔧 Tecnologias e Ferramentas Utilizadas
+## 🔧 Tecnologias e Ferramentas
 
 - Testes manuais
 - Navegadores: Google Chrome (800x600) e Firefox (1920x1080)
@@ -28,25 +31,43 @@ Este projeto foi realizado como parte do curso de QA, com foco no **teste de int
 
 ---
 
-## 📋 Atividades Realizadas
+## ▶️ Como Executar
 
-- Criação de checklist visual para o formulário de reserva
-- Criação de checklist funcional para as janelas "Método de pagamento" e "Adicionar cartão"
-- Desenvolvimento de casos de teste para o botão "Reservar"
-- Desenvolvimento de casos de teste para a função de locação de carro
-- Execução dos testes nos ambientes definidos
-- Registro de bugs com base nos resultados de testes
+1. Preparar os checklists e casos de teste no Google Sheets;  
+2. Executar os testes nos navegadores com as resoluções indicadas;  
+3. Marcar os resultados como APROVADO ou REPROVADO;  
+4. Criar relatórios de bug no Jira para falhas detectadas;  
+5. Atualizar as planilhas com os links dos bugs reportados;  
+6. Documentar as conclusões no Google Docs.
 
 ---
 
-## 🐞 Exemplos de Bugs Reportados
+## 🧾 Resultado
 
-| ID     | Título                                                           | Resultado Esperado                                                                 | Resultado Real                                                                 | Prioridade |
-|--------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|
-| S3-3   | Miniaturas azuis dos carros disponíveis na região não aparecem   | Miniaturas azuis dos carros devem ser visíveis no mapa na região selecionada       | Nenhuma miniatura azul é exibida no mapa                                        | Alta       |
-| S3-4   | Tag "BMW" aparece incorretamente em miniatura de carro no mapa   | Miniatura deve exibir apenas o ícone do carro, sem tags de marca visíveis          | Tag "BMW" aparece sobre uma miniatura de carro mesmo sem essa informação no app | Média      |
+- Checklists detalhados para layout e funcionalidades;  
+- Casos de teste elaborados para botão “Reservar” e locação;  
+- Testes executados conforme planejamento em dois ambientes;  
+- Bugs encontrados, registrados e organizados para revisão;
 
->  A lista completa de bugs pode ser consultada no documento do projeto abaixo.
+---
+
+## 📚 Aprendizados
+
+- Como projetar testes manuais para UI e funcionalidades web;  
+- Trabalhar com diferentes resoluções e navegadores;  
+- Usar técnicas de particionamento de classes e valores-limite;  
+- Reportar bugs de forma clara e estruturada;  
+- Organizar evidências em planilhas e documentos compartilhados.
+
+---
+
+## 💡 Melhorias Futuras
+
+- Automatizar testes de interface com ferramentas como Selenium;  
+- Integrar testes manuais com pipelines CI/CD;  
+- Aprofundar testes em áreas não cobertas, como validação de campos avançados.
+
+---
 
 ---
 
@@ -58,6 +79,8 @@ Este projeto foi realizado como parte do curso de QA, com foco no **teste de int
 
 ---
 
-## ✍️ Autora
 
-**Celia Bruno** – Analista de QA em formação
+## 🇺🇸 Project Summary (English)
+
+**Urban Routes UI and Functional Testing** — Manual QA project focused on testing the web app’s car-sharing form interface and related features across different browsers and screen resolutions.  
+Includes checklist creation, test execution, bug reporting, and final documentation.
