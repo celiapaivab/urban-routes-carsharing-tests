@@ -1,88 +1,79 @@
-# Testes de Interface e Funcionalidade – Urban Routes
+# Interface and Functional Testing – Urban Routes
 
 ![QA](https://img.shields.io/badge/Testes-Manuais-blue)
-![Ferramenta](https://img.shields.io/badge/Google%20Sheets-Test%20Management-green)
-![Tipo de Teste](https://img.shields.io/badge/Testes-Funcionais%20e%20de%20Interface-lightgrey)
+![Tool](https://img.shields.io/badge/Google%20Sheets-Test%20Management-green)
+![Test Type](https://img.shields.io/badge/Testes-Functional%20and%20UI%20Testing-lightgrey)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/celia-bruno)
 
+---
+
+## 📌 Project Overview
+
+This project was developed as part of a QA course, focusing on **UI and functional testing** of the Urban Routes web application – a car-sharing platform. Two browsers with different screen resolutions were used to validate the behavior of the booking form and its associated features.
 
 ---
 
-## 📌 Sobre o Projeto
+## 🎯 Project Goals
 
-Este projeto foi realizado como parte do curso de QA, com foco no **teste de interface e funcionalidade web** da aplicação Urban Routes – uma plataforma de compartilhamento de carros. Foram utilizados dois navegadores com diferentes resoluções para validar o comportamento do formulário de reserva e funcionalidades associadas.
-
----
-
-## 🎯 Objetivo do Projeto
-
-- Testar elementos de interface em diferentes resoluções
-- Verificar a responsividade e o layout do formulário de reserva
-- Validar a funcionalidade das janelas de pagamento e botão "Reservar"
-- Identificar bugs e registrá-los em ambiente Jira
+- Test UI elements at different resolutions  
+- Verify the responsiveness and layout of the booking form  
+- Validate the functionality of the payment windows and "Book" button  
+- Identify and report bugs using Jira
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## 🔧 Technologies and Tools
 
-- Testes manuais
-- Navegadores: Google Chrome (800x600) e Firefox (1920x1080)
-- Google Sheets (checklists e casos de teste)
-- Google Docs (resumo do projeto)
-- Jira (registro de bugs)
-
----
-
-## ▶️ Como Executar
-
-1. Preparar os checklists e casos de teste no Google Sheets;  
-2. Executar os testes nos navegadores com as resoluções indicadas;  
-3. Marcar os resultados como APROVADO ou REPROVADO;  
-4. Criar relatórios de bug no Jira para falhas detectadas;  
-5. Atualizar as planilhas com os links dos bugs reportados;  
-6. Documentar as conclusões no Google Docs.
+- Manual testing  
+- Browsers: Google Chrome (800x600) and Firefox (1920x1080)  
+- Google Sheets (checklists and test cases)  
+- Google Docs (project summary)  
+- Jira (bug reporting)
 
 ---
 
-## 🧾 Resultado
+## ▶️ How to Run
 
-- Checklists detalhados para layout e funcionalidades;  
-- Casos de teste elaborados para botão “Reservar” e locação;  
-- Testes executados conforme planejamento em dois ambientes;  
-- Bugs encontrados, registrados e organizados para revisão;
-
----
-
-## 📚 Aprendizados
-
-- Como projetar testes manuais para UI e funcionalidades web;  
-- Trabalhar com diferentes resoluções e navegadores;  
-- Usar técnicas de particionamento de classes e valores-limite;  
-- Reportar bugs de forma clara e estruturada;  
-- Organizar evidências em planilhas e documentos compartilhados.
+1. Prepare the checklists and test cases in Google Sheets  
+2. Execute the tests on the specified browsers and screen resolutions  
+3. Mark the results as PASS or FAIL  
+4. Report any bugs found using Jira  
+5. Update the spreadsheets with the corresponding bug report links  
+6. Document conclusions and notes in Google Docs
 
 ---
 
-## 💡 Melhorias Futuras
+## 🧾 Results
 
-- Automatizar testes de interface com ferramentas como Selenium;  
-- Integrar testes manuais com pipelines CI/CD;  
-- Aprofundar testes em áreas não cobertas, como validação de campos avançados.
-
----
-
----
-
-## 📁 Arquivos do Projeto
-
-- [`📄 Checklists e Casos de Teste – Google Sheets`](https://docs.google.com/spreadsheets/d/1lp4nFC3xP73r0NDBJAYL_gqjJ5dlNzLB/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true)  
-- [`📝 Documento do Projeto – Google Docs`](https://docs.google.com/document/d/1WrHRbnV7a3M6LZGD-tikFguK_fW8n3TH/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true)  
-- [`🐞 Relatórios de Bug no Jira`](https://celiadepaivabruno.atlassian.net/jira/software/c/projects/S3/issues)
+- Detailed checklists for layout and UI elements  
+- Test cases created for the “Book” button and rental process  
+- Tests executed as planned in both browser environments  
+- Bugs identified, documented, and organized for review
 
 ---
 
+## 📚 What I Learned
 
-## 🇺🇸 Project Summary
+- How to design manual test cases for UI and functional testing  
+- Testing across different screen resolutions and browsers  
+- Applying equivalence partitioning and boundary value techniques  
+- How to report bugs clearly and with structure  
+- Organizing test evidence in spreadsheets and shared documents
 
-**Urban Routes UI and Functional Testing** — Manual QA project focused on testing the web app’s car-sharing form interface and related features across different browsers and screen resolutions.  
-Includes checklist creation, test execution, bug reporting, and final documentation.
+---
+
+## 💡 Future Improvements
+
+- Automate UI tests with tools like Selenium  
+- Integrate manual testing into CI/CD pipelines  
+- Expand coverage into areas like advanced form validation
+
+---
+
+## 📂 Project Files
+
+- [`📄 Checklists and Test Cases – Google Sheets`](https://docs.google.com/spreadsheets/d/1lp4nFC3xP73r0NDBJAYL_gqjJ5dlNzLB/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true)  
+- [`📝 Project Summary – Google Docs`](https://docs.google.com/document/d/1WrHRbnV7a3M6LZGD-tikFguK_fW8n3TH/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true)  
+- [`🐞 Bug Reports – Jira`](https://celiadepaivabruno.atlassian.net/jira/software/c/projects/S3/issues)
+
+---
